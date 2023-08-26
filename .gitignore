@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+./*/.ipynb_checkpoints/
+.spyproject/
+.analysis/ALS_RecommenderSystems_ProviderDeployment.ipynb
+.progress_report/
+.lit_review/
+.peripheral_analysis/
+
