@@ -1,9 +1,5 @@
 # nyconnect
-#### [Wesley Chioh](https://github.com/westerleyy), [Erik Lopez](https://github.com/lobodemonte), [Ziyu Yan](https://github.com/ZiyuYan9), [Yichen Liu](https://github.com/lyc1005)  
-#### Supported by: 
-#### Zachary Gold @ Department of Information Technology and Telecommunications 
-#### Junaid Khan @ NYU Center for Urban Science + Progress
----
+
 
 #### Overview
 
